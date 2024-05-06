@@ -1,4 +1,4 @@
-# Nome do Projeto
+# SpringProject
 
 Este projeto é uma aplicação **Java** com **Spring Boot**, implementando uma **API RESTful** que aborda os métodos CRUD. Atualmente, a aplicação é executada em um servidor local e interage com um banco de dados **PostgreSQL**.
 
